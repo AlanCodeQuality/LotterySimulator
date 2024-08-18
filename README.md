@@ -10,6 +10,10 @@ Bem-vindo ao **Simulador de Loteria**! Este projeto é um simulador de loteria d
 - **🔄 Repetição de Jogo:** Jogue novamente ou saia após ver os resultados.
 - **⚠️ Tratamento de Erros:** Verificação básica para entradas inválidas.
 
+## 🚀 Regra
+
+- **✅ Será vencedor se acertar no mínimo 2 numeros!
+
 ## 📦 Como Executar
 
 1. **Clone o Repositório:**
