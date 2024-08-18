@@ -12,7 +12,7 @@ Bem-vindo ao **Simulador de Loteria**! Este projeto é um simulador de loteria d
 
 ## 🚀 Regra
 
-_ ✅ Será vencedor se acertar no mínimo 2 numeros!
+- ✅ Será vencedor se acertar no mínimo 2 numeros!
 
 ## 📦 Como Executar
 
