@@ -17,4 +17,7 @@ Bem-vindo ao **Simulador de Loteria**! Este projeto é um simulador de loteria d
    git clone https://github.com/SEU_USUARIO/simulador-loteria.git
 
 ![Captura de tela 2024-08-17 230331](https://github.com/user-attachments/assets/0b2e3828-db50-4eae-9703-6e5a7d1e44f1)
+
+*********************************************************************************************************************
+
 ![Captura de tela 2024-08-17 230230](https://github.com/user-attachments/assets/bbef7fe9-e0e5-4289-9f36-337f1407db5e)
