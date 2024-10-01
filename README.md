@@ -1,24 +1,25 @@
-# 🎰 Simulador de Loteria 🎰
+# 🎰 Lottery Simulator 🎰
 
-Bem-vindo ao **Simulador de Loteria**! Este projeto é um simulador de loteria desenvolvido em C++ que permite que você jogue uma simulação de loteria, escolha números e verifique quantos números foram acertados. 
+Welcome to the **Lottery Simulator**! This project is a lottery simulator developed in C++ that allows you to play a lottery simulation, choose numbers, and check how many numbers you got right.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- **🎟️ Seleção de Números:** Escolha seu conjunto de números para participar do sorteio.
-- **🎲 Sorteio de Números:** O programa sorteia um conjunto de números vencedores aleatoriamente.
-- **✅ Verificação de Acertos:** Compare seus números com os números sorteados e veja quantos você acertou.
-- **🔄 Repetição de Jogo:** Jogue novamente ou saia após ver os resultados.
-- **⚠️ Tratamento de Erros:** Verificação básica para entradas inválidas.
+- **🎟️ Number Selection:** Choose your set of numbers to participate in the draw.
+- **🎲 Number Draw:** The program randomly selects a set of winning numbers.
+- **✅ Hit Verification:** Compare your numbers with the drawn numbers and see how many you got right.
+- **🔄 Replay Game:** Play again or exit after viewing the results.
+- **⚠️ Error Handling:** Basic validation for invalid inputs.
 
-## 🚀 Regra
+## 🚀 Rule
 
-- ✅ Será vencedor se acertar no mínimo 2 numeros!
+- ✅ You will win if you match at least 2 numbers!
 
-## 📦 Como Executar
+## 📦 How to Run
 
-1. **Clone o Repositório:**
+1. **Clone the Repository:**
+
    ```bash
-   git clone https://github.com/SEU_USUARIO/simulador-loteria.git
+   git clone https://github.com/AlanCodeQuality/LotterySimulator.git
 ![Captura de tela 2024-08-18 154112](https://github.com/user-attachments/assets/44269e23-e7ef-48f4-ab5f-44c33286aaf5)
 
 *********************************************************************************************************************
